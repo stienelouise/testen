@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.row {
+  display: flex;
+  background-color: orange;
+  justify-content: space-around;
+}
+
+.item {
+  width: 555px;
+  height: 160px;
+  background: lightseagreen;
+  border: 0.3em;
+  border-color: black;
+  border-style: solid;
+  margin: 20px 0 20px 0;
+}
